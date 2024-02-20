@@ -1,4 +1,4 @@
-# devops-todos
+# Cypress todos
 
 A minimal project for learning about end-to-end testing.
 
